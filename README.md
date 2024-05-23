@@ -5,6 +5,7 @@ This is a simple application using Socket.IO to create a chat server. When you t
 Features:
 Real-time messaging
 Broadcasts messages to all connected users
+
 How it works:
 Client Side: You input a message and send it.
 Server Side: The server receives the message and sends it to all connected clients.
